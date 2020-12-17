@@ -26,4 +26,6 @@ header div h1{
 header div p{
     text-align: center;
     font-size: 20px;
+    color: #212529;
+    font-weight: 300;
 }
